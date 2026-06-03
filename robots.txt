@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucky-easter-10-el-hugewin.github.io/sitemap.xml
